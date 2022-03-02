@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    text-align: center;
+    gap: 1rem;
+    margin: 0 20%;
+}
+
+label {
+    font-size: 28px;
+    text-align: start;
+    font-weight: 900;
+}
+
+input {
+    padding: 5px;
+    font-size: 18px;
+}
+
+.btn {
+    background: orange;
+    padding: 5px;
+}
+
+.table {
+    display: grid;
+    border: 1px solid black;
+    margin: 1rem 20%;
+}
+
+tbody {
+    text-align: center;
+}
+
